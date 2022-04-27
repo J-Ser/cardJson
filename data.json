@@ -12,7 +12,7 @@
    "user_3":{
       "name":"Samantha Science",
       "email":"sscience@mail.harvard.edu",
-      "profile_pic":"contact_svg"
+      "profile_pic":"contact_svg_alt"
    },
    "user_4":{
       "name":"Alexander A. Arithmetic",
@@ -22,6 +22,6 @@
    "user_5":{
       "name":"Doug",
       "email":"codewarriorkingkobratigerneverrest@aol.com",
-      "profile_pic":"contact_svg"
+      "profile_pic":"contact_svg_alt"
    }
 }
