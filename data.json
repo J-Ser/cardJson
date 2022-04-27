@@ -1,10 +1,27 @@
-"user_1":{
-   "name":"Capn Code",
-   "email":"codewarriorkingkobratigerneverrest@aol.com",
-   "profile_pic":"contact_svg"
-},
-"user_2":{
-   "name":"Cornelius Computation",
-   "email":"cornelius@yah.com",
-   "profile_pic":"contact_svg"
-},
+{
+   "user_1":{
+      "name":"Capn Code",
+      "email":"jim@jim.ca",
+      "profile_pic":"contact_svg"
+   },
+   "user_2":{
+      "name":"Cornelius Computation",
+      "email":"cornelius@yahoo.com",
+      "profile_pic":"contact_svg"
+   },
+   "user_3":{
+      "name":"Samantha Science",
+      "email":"sscience@mail.harvard.edu",
+      "profile_pic":"contact_svg"
+   },
+   "user_4":{
+      "name":"Alexander A. Arithmetic",
+      "email":"aaaaa@ooo.com",
+      "profile_pic":"contact_svg"
+   },
+   "user_5":{
+      "name":"Doug",
+      "email":"codewarriorkingkobratigerneverrest@aol.com",
+      "profile_pic":"contact_svg"
+   }
+}
