@@ -2,43 +2,43 @@
    "user_1":{
       "name":"Capn Code",
       "email":"jim@jim.ca",
-      "mobile: "111-111-1111",
+      "mobile": "111-111-1111",
       "profile_pic":"contact_svg"
    },
    "user_2":{
       "name":"Cornelius Computation",
       "email":"cornelius@yahoo.com",
-       "mobile: "222-222-2222",
+       "mobile": "222-222-2222",
       "profile_pic":"contact_svg"
    },
    "user_3":{
       "name":"Samantha Science",
       "email":"sscience@mail.harvard.edu",
-      "mobile: "333-333-3333",
+      "mobile": "333-333-3333",
       "profile_pic":"contact_svg_alt"
    },
    "user_4":{
       "name":"Alexander A. Arithmetic",
       "email":"aaaaa@ooo.com",
-      "mobile: "444-444-4444",
+      "mobile": "444-444-4444",
       "profile_pic":"contact_svg"
    },
    "user_5":{
       "name":"Brian B. Arithmetic",
       "email":"bbaaaaa@ooo.com",
-      "mobile: "555-555-5555"
+      "mobile": "555-555-5555"
       "profile_pic":"contact_svg"
    },
    "user_6":{
       "name":"Doug",
       "email":"dough@aol.com",
-      "mobile: "666-666-6666",
+      "mobile": "666-666-6666",
       "profile_pic":"contact_svg_alt"
    },
-      "user_6":{
+   "user_7":{
       "name":"Doug 2",
       "email":"doughbread@aol.com",
-      "mobile: "777-777-7777",
+      "mobile": "777-777-7777",
       "profile_pic":"contact_svg"
    }
 }
